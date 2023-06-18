@@ -59,11 +59,12 @@
 # print(5//2)
 
 
-score_1 = 90
-score_2 = 80
-score_3 = 95
-average = (score_1 + score_2 + score_3) /3
-print("average is:", average)
+# score_1 = 90
+# score_2 = 80
+# score_3 = 95
+# average = (score_1 + score_2 + score_3) /3
+# print("average is:", average)
 
 
 # input ? next session
+
